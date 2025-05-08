@@ -43,8 +43,8 @@ Creating these dashboards has significantly enhanced my ability to transform raw
 
 A heartfelt thank you to:
 
-SDHUB Institution
+**SD HUB Institution**
 
-My mentor, Uwaish Hussain Sir
+My mentor, **Uwaish Hussain Sir**
 
-Maven Analytics (YouTube) for inspiring me through the art of data storytelling
+**Maven Analytics** (YouTube) for inspiring me through the art of data storytelling
